@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: staging
+    database: production
+     # For postgres:
+      #database: 
+    schema: all_trips_data
+
+      # loaded_at_field: record_loaded_at
+    tables:
+      - name: combined_green_taxi_trips
