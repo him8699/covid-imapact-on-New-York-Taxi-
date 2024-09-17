@@ -1,4 +1,4 @@
-COVID-19’s Impact on the New York Taxi Industry. | Python, SQL(postgres), Docker, dbt Labs,Google Data Studio
+COVID-19’s Impact on the New York Taxi Industry.
 
 
 
